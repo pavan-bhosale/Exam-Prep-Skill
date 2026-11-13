@@ -1,4 +1,4 @@
-# 📘 ExamPrep: Claude Skill for Exam-Ready Answers
+# 📘 ExamPrep: An AI Skill for Exam-Ready Answers
 
 Turn your college notes into answers a teacher would give full marks to.
 Upload your notes, ask exam questions, and get complete, neatly structured
@@ -24,6 +24,3 @@ answers with every claim traced back to the exact page or slide.
 1. Add `examprep.md` as a skill, or paste it at the start of a chat.
 2. Upload your notes.
 3. Ask your exam questions.
-
-## 📄 License
-MIT
