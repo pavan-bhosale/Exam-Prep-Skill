@@ -21,6 +21,6 @@ answers with every claim traced back to the exact page or slide.
 - 📎 **Source citations**: e.g. `notes.pdf : pg 11-13`
 
 ## 🚀 Usage
-1. Add `examprep.md` as a skill, or paste it at the start of a chat.
+1. Add `examprep v1.md` as a skill, or paste it at the start of a chat.
 2. Upload your notes.
 3. Ask your exam questions.
